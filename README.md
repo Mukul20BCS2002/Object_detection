@@ -4,7 +4,7 @@
 
 
 ## Introduction
- This repo contains  object_detection.py, which can perform the following task -
+ This repo contains  o  bject_detection.py, which can perform the following task -
  - Object detection from a live video frame, in any video file, or in an image
  - Counting the number of objects in a frame
  - Measuring the distance of an object using depth information
